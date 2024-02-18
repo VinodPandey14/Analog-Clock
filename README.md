@@ -24,3 +24,5 @@ Welcome to the Analog Clock repository! This project showcases an elegant analog
 
 ## Usage
 Simply embed the provided HTML, CSS, and JavaScript code into your webpage or application, and watch as this analog clock brings a touch of elegance and functionality to your digital space
+
+<b>Author : Vinod Pandey</b>
